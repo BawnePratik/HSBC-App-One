@@ -1,4 +1,8 @@
-public class 
+public class UserService
 {
+
+	public void addUser(){
+
+	}
 
 }
